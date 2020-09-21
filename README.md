@@ -36,7 +36,7 @@ I'm **Rohan**, striving to become a strong developer and moving deep dive into t
 
 <img src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp; <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" height="48"> &nbsp; <img src="https://img.icons8.com/dusk/48/000000/docker.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> 
 
-![Rohan_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=rohankumawat&theme=radical&show_icons=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumawat&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rohan_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=rohankumawat&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumawat&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me: 
 [![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/rohankumawat06/)
