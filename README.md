@@ -21,7 +21,7 @@ I'm **Rohan**, striving to become a strong developer and moving deep dive into t
 
 - 🔭 I’m currently exploring [Front-End Development](https://github.com/rohankumawat/FrontEndDevelopment).
 - 🌱 I’m currently learning [Flutter](https://github.com/rohankumawat/Flutter).
-- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, and **Songs**.
+- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **FC Barcelona** and **Songs**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
 ### Languages:
