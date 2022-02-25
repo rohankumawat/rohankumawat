@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
 
-- 🔭 I’m currently exploring [Front-End Development](https://github.com/rohankumawat/FrontEndDevelopment).
-- 🌱 I’m currently learning [Flutter](https://github.com/rohankumawat/Flutter).
+- 🔭 I’m currently working on some [Data Science Projects](https://github.com/rohankumawat/FrontEndDevelopment).
+- 🌱 I’m currently learning [React](https://github.com/rohankumawat/Flutter) and [Data Structures and Algorithms]().
 - 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **FC Barcelona** and **Songs**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
