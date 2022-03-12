@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
 
 - 🔭 I’m currently working on some [Data Science Projects](https://github.com/rohankumawat/DataScienceWarehouse).
-- 🌱 I’m currently learning [React](https://github.com/rohankumawat/Flutter) and [Data Structures and Algorithms]().
+- 🌱 I’m currently learning [React](https://github.com/rohankumawat/LearningReact) and [Data Structures and Algorithms](https://github.com/rohankumawat/ProgrammingLanguages).
 - 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **FC Barcelona** and **Songs**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
@@ -36,7 +36,7 @@ I'm **Rohan**, striving to become a strong developer and moving deep dive into t
 
 <img src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp; <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" height="48"> &nbsp; <img src="https://img.icons8.com/dusk/48/000000/docker.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> 
 
-![Rohan_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=rohankumawat&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumawat&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rohan GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankumawat&theme=tokyonight&show_icon=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumawat&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me: 
 [![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/rohankumawat06/)
