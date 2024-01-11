@@ -1,4 +1,4 @@
-<div style="float:left; width: 40%;">
+<div style="float:left; width: 60%;">
 
 ### Hi there 👋 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" style="width: 30%; float:right; padding-left:10px;"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" style="width: 40%; float:right; padding-left:10px;"/>
 
 
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
