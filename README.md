@@ -1,4 +1,4 @@
-<div style="float:left; width: 70%;">
+<div style="float:left; width: 40%;">
 
 ### Hi there 👋 
 
