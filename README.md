@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" style="max-width: 50%; height: auto; width: auto\9; /* ie8 */" />
+<div style="float:left; width: 70%;">
 
 ### Hi there 👋 
 
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" style="width: 30%; float:right; padding-left:10px;"/>
+
 
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
 
