@@ -1,26 +1,6 @@
-<div style="float:left; width: 60%;">
-
 ### Hi there 👋 
 
-<!--
-**rohankumawat/rohankumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-</div>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" style="width: 40%; float:right; padding-left:10px;"/>
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" height="200" width="300"/>
 
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
 
