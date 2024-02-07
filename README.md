@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" height="200" width="300"/>
 
-I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **Automation**. 
+I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **AI, Machine Learning, and Automation**. 
 
-- 🔭 I’m currently working on some [Data Science Projects](https://github.com/rohankumawat/DataScienceWarehouse).
-- 🌱 I’m currently learning [React](https://github.com/rohankumawat/LearningReact) and [Data Structures and Algorithms](https://github.com/rohankumawat/ProgrammingLanguages).
-- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **FC Barcelona** and **Songs**.
+- 🔭 I’m currently working on some [Formula One AI]([https://github.com/rohankumawat/DataScienceWarehouse](https://github.com/rohankumawat/FormulaOneAI)) and [Spotify Streamlit WebApp](https://github.com/rohankumawat/spotifyStreamlit).
+- 🌱 I’m currently learning [LLM and Langchain]([https://github.com/rohankumawat/LearningReact](https://github.com/rohankumawat/llmmodels)). 
+- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **F1**, **FC Barcelona** and **Songs**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
 ### Languages:
