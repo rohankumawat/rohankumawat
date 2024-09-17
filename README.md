@@ -5,7 +5,7 @@
 I'm **Rohan**, striving to become a strong developer and moving deep dive into the world of **AI, Machine Learning, and Automation**. 
 
 - 🧑🏻‍💻 My [corner](https://www.rohankumawat.com) in the world of Internet.
-- 🔭 I’m currently working on [Credit Card Fraud Detection MLops](https://github.com/rohankumawat/creditCardFraudDetection), [Traffic Prediction AI](https://github.com/rohankumawat/trafficPredictionAI), and [Formula One AI](https://github.com/rohankumawat/FormulaOneAI).
+- 🔭 I’m currently working on [Credit Card Fraud Detection MLops](https://github.com/rohankumawat/creditCardFraudDetection), [Premier League AI](https://github.com/rohankumawat/premierLeagueAI), and [Formula One AI](https://github.com/rohankumawat/FormulaOneAI).
 - 🌱 I’m currently learning [LLM and Langchain]([https://github.com/rohankumawat/LearningReact](https://github.com/rohankumawat/llmmodels)). 
 - 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **F1**, **FC Barcelona** and **Songs**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
